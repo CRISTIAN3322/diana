@@ -20,6 +20,11 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.header{
+	height: 50vh;
+	background: blue;
+}
+
 .contenedor {
 	max-width: 1000px;
 	width: 90%;
